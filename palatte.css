@@ -1,8 +1,8 @@
 .dark {
-  --background: #111;
-  --foreground: #fdfdfd;
-  --muted-foreground: #aaa;
-  --secondary: #181818;
-  --orange: #ff6b00;
-  --border: #222;
+  --background: hsl(0 0% 7%);
+  --foreground: hsl(0 0% 99%);
+  --muted-foreground: hsl(0 0% 67%);
+  --secondary: hsl(0 0% 9%);
+  --orange: hsl(25 100% 50%);
+  --border: hsl(0 0% 13%);
 }
