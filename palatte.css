@@ -1,3 +1,12 @@
+.light {
+  --background: hsl(0 0% 100%);
+  --foreground: hsl(218 66% 6%);
+  --muted-foreground: hsl(25 5.3% 44.7%);
+  --secondary: hsl(227 43% 96%);
+  --orange: hsl(25 100% 50%);
+  --border: hsl(20 5.9% 90%);
+  --danger: hsl(0 84% 57%);
+}
 .dark {
   --background: hsl(0 0% 7%);
   --foreground: hsl(0 0% 99%);
