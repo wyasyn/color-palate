@@ -1,0 +1,8 @@
+.dark {
+  --background: #111;
+  --foreground: #fdfdfd;
+  --muted-foreground: #aaa;
+  --secondary: #181818;
+  --orange: #ff6b00;
+  --border: #222;
+}
